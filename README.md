@@ -43,15 +43,17 @@ Currently building my foundation, one line of code at a time. 💻
 ---
 
 ## 📂 What I'm Working On
-
+ 
+| Project | What it's about |
+| --- | --- |
 | 🛡️ PhishGuard | A Python project that spots phishing URLs, starting with hand-built URL features and working towards a machine learning model. |
 | 🐍 [Python Learning](https://github.com/pragun-gupta/Python-learning-exercise) | Practising Python through exercises, including the URL feature work that feeds into PhishGuard. |
 | 📘 CS50x | Working through Harvard's CS50x. My final project will be published here once it's done. |
 | ☕ [Java Learning](https://github.com/pragun-gupta/java-learning) | Java fundamentals through programs and exercises. |
 | ⚙️ [C++ OOPs Learning](https://github.com/pragun-gupta/cpp-oops-learning) | Object-oriented programming concepts in C++. |
-
+ 
 More projects coming as I keep learning and building. 🚀
-
+ 
 ---
 
 ## 🎯 Goals
